@@ -18,8 +18,8 @@ Built In to Chrome Web Tools -> Lighthouse
 # good photos
 https://unsplash.com/
 
-# color ideas
-https://www.colourlovers.com/palettes
+# good illustrations
+https://undraw.co
 
 # ui responsive and layouts
 bootstrap tailwind bulma @ https://bulma.io/
@@ -38,3 +38,11 @@ https://styleshout.com/
 
 # good free illustrations
 https://undraw.co/search
+
+# web experiments
+https://codepen.io/
+https://experiments.withgoogle.com/chrome/
+
+# colors 
+https://www.canva.com/colors/color-palettes/
+https://www.colourlovers.com/palettes
